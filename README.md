@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋🏻, I'm Sanket Rangari</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>- 🌱 <b>I’m currently learning Java Technology<b><br><br>- 👨🏻‍🎓 Student of Master of Computer Application<br><br>- 👨🏻‍💻 I have Learned <b>C Language,Python,Php,Java,DBMS<b><br><br>- 🖥 My goal to become <b>Full Stack Developer<b><br><br>- 💬 Ask me about <b>Programming<b><br><br>- 📫 How to reach me <b>rangarisanket04@gmail.com</b><br><br>
+<h1 align="center">Hi 👋🏻, I'm Sanket Rangari</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>- 🌱 <b>I’m currently learning Java Technology<b><br><br>- 👨🏻‍🎓 Student of Master of Computer Application<br><br>- 👨🏻‍💻 I have Learned <b>C Language,Python,Php,Java,DBMS<b><br><br>- 🖥 My goal to become <b>Full Stack Developer<b><br><br>- 💬 Ask me about <b>Programming<b><br><br></b><br><br>
 
 
 ## 🌐 Socials:
