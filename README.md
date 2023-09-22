@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋🏻, I'm Sanket Rangari</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>- 🌱 <b>I’m currently learning Java Technology<b><br><br>- 👨🏻‍🎓 Student of Master of Computer Application (MCA)<br><br>
+<h1 align="center">Hi 👋🏻, I'm Sanket Rangari</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>- 🌱 <b>I’m currently learning Java Technology and Android Development<b><br><br>- 👨🏻‍🎓 Student of Master of Computer Application (MCA)<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isanket09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-rangari-8a846b212)
